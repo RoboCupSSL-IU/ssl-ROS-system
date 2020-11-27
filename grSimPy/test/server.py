@@ -1,4 +1,4 @@
-import proto_py.grSim_Packet_pb2 as Packet
+import grSimPy.proto.proto_py.grSim_Packet_pb2 as Packet
 import socket
 
 UDP_IP = "127.0.0.1"
