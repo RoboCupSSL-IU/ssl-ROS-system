@@ -2,7 +2,7 @@
 
 This is an api to use grSim in python
 
-![Moving robot](https://github.com/hany606/grSimPy/imgs/robot_moving.gif)
+![Moving robot](https://github.com/RoboCupSSL-IU/ssl-ROS-system/blob/main/grSimPy/imgs/robot_moving.gif)
 
 ## Setup:
 
